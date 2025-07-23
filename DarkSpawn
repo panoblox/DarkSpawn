@@ -1,1 +1,3 @@
-
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/AnMIPaqTbsyCbZR4/raw", true))()
+loadstring(game:HttpGet("https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua"))()
+Spawner.Load()
